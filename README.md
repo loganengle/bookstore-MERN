@@ -40,10 +40,6 @@ npm install
 
 In `config.js` update the `mongoDBURL` constant with your MongoDB connection string.
 
-```shell
-npm install
-```
-
 #### 4. Start the backend server:
 ```shell
 npm run dev
