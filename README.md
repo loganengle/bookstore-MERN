@@ -46,7 +46,7 @@ npm install
 
 #### 4. Start the backend server:
 ```shell
-npm start
+npm run dev
 ```
 
 ### Set Up the Frontend
@@ -65,10 +65,8 @@ npm install
 
 #### 3. Start the frontend application:
 ```shell
-npm start
+npm run dev
 ```
-
-The frontend application will be available at http://localhost:3000 and the backend server at http://localhost:5000 (default ports).
 
 ## Usage
 
